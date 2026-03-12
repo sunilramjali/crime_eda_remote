@@ -1,0 +1,11 @@
+# Ignore data files
+data/
+
+# Ignore csv files
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
