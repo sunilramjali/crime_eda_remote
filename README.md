@@ -6,6 +6,7 @@ This Project performs exploratory data analysis on UK police crime data across m
 https://data.police.uk/data/
 
 ## Project Structure
-data/ - raw crime datasets (ignored in Git)
-notebooks/ - preprocessing and EDA notebooks
-documentation/ - project statement and EDA report
+data/ - Raw crime datasets (ignored in Git)
+notebooks/ - Data preprocessing and EDA notebooks
+documentation/ - Project Statement of Work and EDA report
+.gitignore - Prevents large data files from being tarcked by Git
