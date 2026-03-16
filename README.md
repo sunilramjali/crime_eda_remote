@@ -23,3 +23,6 @@ documentation/ - Project Statement of Work and EDA report
 
 ## Github URL:
 https://github.com/sunilramjali/crime_eda_remote.git
+
+## Trello link:
+https://trello.com/invite/b/69b0370d5f6bc2293350812e/ATTI29959a50a28ec39abb71be5b0604a0f037BE2897/python-crime-data-analysis
